@@ -44,13 +44,13 @@ ________________________________________
 ## Evaluation Metrics
 Final Model (Random Forest Classifier after SMOTE and tuning):
 
-Metric&nbsp;&nbsp;Score
+   Metric&nbsp;&nbsp;Score
 
-Accuracy&nbsp;&nbsp;80.89%
+* Accuracy&nbsp;&nbsp;80.89%
 
-F1-Score&nbsp;&nbsp;0.80
+* F1-Score&nbsp;&nbsp;0.80
 
-Precision/Recall (Class 1 - needs repair)	Improved, but still limited
+* Precision/Recall:  Class 1 (needs repair)	Improved, but still limited.
 ________________________________________
 ## Key Findings
 •	Random Forest outperforms Logistic Regression in both accuracy and class balance.
